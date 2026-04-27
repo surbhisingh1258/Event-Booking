@@ -6,18 +6,12 @@ A full-stack Event Management web application built using the MERN stack that al
 
 ## Features
 
-### Features
 - User authentication & authorization (JWT-based)
-- Browse available events
-- Book events
-- Manage bookings
-
-### Admin Features
 - Role-based access control (Admin & User)
-- Create events
-- Update events
-- Delete events
-- Manage all bookings
+- Create, update, and delete events (Admin)
+- Browse and book events (User)
+- Booking management system
+- Responsive and user-friendly UI
 
 
 ## Tech Stack
