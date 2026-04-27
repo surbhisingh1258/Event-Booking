@@ -1,4 +1,4 @@
-# Event Booking System (MRRN Stack)
+# Event Booking System (MERN Stack)
 
 A full-stack Event Management web application built using the MERN stack that allows users to browse, book, and manage events, while admins can create and manage events efficiently.
 
